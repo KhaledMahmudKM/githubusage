@@ -2,7 +2,8 @@
 
 A practical guide to using Git and GitHub for version control and collaboration.
 
-<img src="cover_image.jpeg" alt="Cover Image" width="500" >
+<img src="cover_image.jpeg" alt="Cover Image" width="100%" >
+
 ---
 
 ## Overview
