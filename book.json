@@ -4,5 +4,8 @@
   "year": "2026",
   "copyright": "© 2026 Khaled Mahmud",
   "version": "1.0",
-  "description": "A concise guide to Github Usage"
+  "description": "A concise guide to Github Usage",
+  "homeUrl": "https://khaledmahmudkm.github.io/stacks/",
+  "logo": "logo.svg",
+  "math": false
 }
